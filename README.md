@@ -2,3 +2,4 @@
 
 These are learning notes
 
+- [ ] Linux
